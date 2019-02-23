@@ -39,9 +39,9 @@ Program 1 (Program mencari bilangan terbesar)
 -Jangan lupa ketikkan "pengulangan()" ,
  apabila lupa mengetikkan kata tersebut 
  maka definisi perulangan tidak akan muncul pada saat program dijalankan.
-
+```
 2).Berikut kode lengkapnya :
-
+```
 print (' _________________________________ ')
 print ('|                                 |')
 print ('|PROGRAM MENCARI BILANGAN TERBESAR|')
