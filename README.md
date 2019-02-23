@@ -2,8 +2,9 @@
 
 
 Program 1 (Program mencari bilangan terbesar)
-1).Alur Agoritmanya :
 
+1).Alur Agoritmanya :
+```
 -Mendefinisikan perulangan dengan mengetikkan ;
 	def pengulangan():
    
@@ -72,7 +73,7 @@ def pengulangan():
         print('Terimakasih telah menggunakan program ini.')
 
 pengulangan()
-
+```
 3). Berikut Adalah Flowchartnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Labpy_1/master/Flowchartnya.png)
